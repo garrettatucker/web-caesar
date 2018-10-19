@@ -26,7 +26,7 @@ form = """
     </head>
     <body>
         <form method="post">
-            <input name="rot" type="text" value="0">
+            Rotate by: <input name="rot" type="text" value="0">
             <textarea name="text">{}</textarea>
             <input type="submit" value="submit">
         </form>
